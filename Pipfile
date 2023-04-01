@@ -10,3 +10,4 @@ flask = "*"
 
 [requires]
 python_version = "3.8"
+start = pipenv run python src/app.py
